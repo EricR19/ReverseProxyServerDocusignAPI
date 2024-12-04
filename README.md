@@ -6,8 +6,8 @@
 ## Tabla de Contenidos
 - [Descripción](#descripción)
 - [Instalación](#instalación)
-- [API Reference](#apiReference)
-- [Authors](authors)
+- [API Reference](#APIReference)
+- [Authors](Authors)
 
 ## Descripción
 
