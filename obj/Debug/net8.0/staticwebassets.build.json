@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0KaQhsB3VxsiRZ6IreQ7vdHfFS/vnfy0r41Vd8ZqB9c=",
+  "Source": "ProxyServerDocusignAPI",
+  "BasePath": "_content/ProxyServerDocusignAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

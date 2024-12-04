@@ -1,0 +1,6 @@
+@ProxyServerDocusignAPI_HostAddress = http://localhost:5157
+
+GET {{ProxyServerDocusignAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
