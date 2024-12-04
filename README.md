@@ -85,7 +85,7 @@ Seguir esta documentacion para la creacion del [template](https://support.docusi
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
+| `envelopeId`      | `string` | **Required**. Id of item to fetch |
 
 
 
