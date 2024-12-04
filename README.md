@@ -7,7 +7,7 @@
 - [Descripción](#descripción)
 - [Instalación](#instalación)
 - [API Reference](#APIReference)
-- [Authors](Authors)
+- [Authors](API Reference)
 
 ## Descripción
 
